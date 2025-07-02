@@ -162,5 +162,5 @@ Cada modelo genera archivos completos de resultados:
 
 El modelo XGBoost emerge como la **solución final** debido a su superior rendimiento, eficiencia computacional y capacidad de generalización en datos tabulares complejos.
 
-## Video de Avance del Proyecto
+## Video del Proyecto
 - https://youtu.be/BDqonJGEh1U
